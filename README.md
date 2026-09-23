@@ -6,8 +6,8 @@ supporto, copertina. Sono **generate** dai documenti dell'app con
 non si modificano a mano, o la pagina pubblicata smette di dire quello che dice
 la fonte.
 
-- https://albertoclemente.github.io/brezza-viva/
-- https://albertoclemente.github.io/brezza-viva/privacy
-- https://albertoclemente.github.io/brezza-viva/supporto
+- https://brezzaviva.alberto-clemente.dev/
+- https://brezzaviva.alberto-clemente.dev/privacy
+- https://brezzaviva.alberto-clemente.dev/supporto
 
 Contatto: clemalb@gmail.com
